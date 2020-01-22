@@ -499,6 +499,8 @@
                             !com.google.common.io.*,
                             !com.google.errorprone.*,
                             !org.checkerframework.*,
+                            !ddf.security.sts.client.configuration.*,
+                            !ddf.security.ws.policy.*,
                             *
                         </Import-Package>
                         <Export-Package>
